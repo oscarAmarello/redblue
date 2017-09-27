@@ -1,4 +1,5 @@
 runtime: python27
+service: prueba_spinnaker
 api_version: 1
 threadsafe: true
 
