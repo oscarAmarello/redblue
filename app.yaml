@@ -1,4 +1,4 @@
-service: pruebaspinnaker
+service: deployotro_2
 runtime: python27
 api_version: 1
 threadsafe: true
