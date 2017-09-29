@@ -1,4 +1,4 @@
-service: deployotro_2
+service: deployotro
 runtime: python27
 api_version: 1
 threadsafe: true
